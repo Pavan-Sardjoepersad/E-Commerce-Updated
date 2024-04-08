@@ -1,13 +1,14 @@
-<h1>Laravel eCommerce Learning Project</h1>
+<h1>Laravel eCommerce Updated Version</h1>
 
 <h2>Overview</h2>
 
-This project involves building an eCommerce website using Laravel. The main goal is to enhance my understanding of Laravel, improve database integration skills, and master Tailwind CSS for UI development.
+Een aangepaste versie van mijn E-Commerce project met een aantal wijzigingen.
 
-<h2>Learning Goals</h2> 
+<h2>Aanpassingen</h2> 
 
-Laravel Mastery: Gain proficiency in Laravel's core features, including routing, controllers, and Eloquent ORM.
+Navbar Items verwijzen nu door naar hun eigen pagina.
 
-Database Integration: Learn effective database design and interaction using Laravel's Eloquent ORM.
+Toegevoegde mogelijkheden om een product aan te maken, up te daten en te verwijderen van de website.
 
-Tailwind CSS Proficiency: Develop skills in Tailwind CSS for creating a visually appealing and responsive user interface.
+Category Model aangemaakt die een one to many relatie heeft met Product. 
+
